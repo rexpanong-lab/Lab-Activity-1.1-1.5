@@ -17,7 +17,8 @@ string should be String.
 - The text should use double quotation marks (" ") instead of single quotation marks (' ').
 - The System.out.println() statement must end with a semicolon (;).
 
-2. Corrected source code: Welcome.javaThe program must have the correct opening and closing braces.
+2. Corrected source code: Welcome.java
+- The program must have the correct opening and closing braces.
 
   public class Welcome {
     public static void main(String[] args) {
